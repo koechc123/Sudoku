@@ -1,0 +1,21 @@
+
+<TextView
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  	android:id="@+id/about_The_Game"
+	android:layout_height="wrap_content"
+	android:layout_width="match_parent"
+	android:text="Sudoku is a logic-based number placement puzzle.
+Starting with a partially completed 9x9 grid, the
+objective is to fill the grid so that each
+row, each column, and each of the 3x3 boxes
+(also called blocks) contains the digits
+1 to 9 exactly once.\n\n
+
+ KUHUSU SUDOKU\n
+Sudoku ni Mchezo wa kujaza nambari kwenye nafasi zilizoachwa. Lengo ni kujaza nafasi hizo
+ili kila urefu, au boxi 3x3 ina nambari 1 hadi 9 mara moja bila kurudiwa.\n\n\n\n
+\t\t\tDeveloped by Wilfred KCAU.">
+ 
+</TextView>
+
+ 
